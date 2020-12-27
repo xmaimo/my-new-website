@@ -2,4 +2,4 @@
 
 this is a really awesome website
 
-## Edit on _example_ branch
+## Edit on __update README__ branch
